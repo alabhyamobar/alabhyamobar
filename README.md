@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/alabhyamobar/alabhyamobar/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/alabhyamobar/alabhyamobar/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/alabhyamobar/alabhyamobar/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/alabhyamobar/alabhyamobar/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/alabhyamobar/alabhyamobar/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/alabhyamobar/alabhyamobar/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/alabhyamobar/alabhyamobar/tree/master/1757-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/alabhyamobar/alabhyamobar/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
