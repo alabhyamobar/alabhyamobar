@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alabhyamobar/alabhyamobar/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/alabhyamobar/alabhyamobar/tree/master/0073-set-matrix-zeroes) |
 | [0486-predict-the-winner](https://github.com/alabhyamobar/alabhyamobar/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alabhyamobar/alabhyamobar/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/alabhyamobar/alabhyamobar/tree/master/0073-set-matrix-zeroes) |
 ## Database
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/alabhyamobar/alabhyamobar/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/alabhyamobar/alabhyamobar/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/alabhyamobar/alabhyamobar/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
