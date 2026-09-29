@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/alabhyamobar/alabhyamobar/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/alabhyamobar/alabhyamobar/tree/master/0073-set-matrix-zeroes) |
 | [0486-predict-the-winner](https://github.com/alabhyamobar/alabhyamobar/tree/master/0486-predict-the-winner) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alabhyamobar/alabhyamobar/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/alabhyamobar/alabhyamobar/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/alabhyamobar/alabhyamobar/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/alabhyamobar/alabhyamobar/tree/master/0509-fibonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alabhyamobar/alabhyamobar/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
 | ------- |
@@ -53,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/alabhyamobar/alabhyamobar/tree/master/0073-set-matrix-zeroes) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alabhyamobar/alabhyamobar/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/alabhyamobar/alabhyamobar/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/alabhyamobar/alabhyamobar/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
